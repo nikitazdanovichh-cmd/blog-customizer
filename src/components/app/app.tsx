@@ -15,7 +15,6 @@ export const App = () => {
             className={clsx(styles.main)}
             style={
                 {
-                    // Теперь стили берутся из динамического состояния articleState
                     '--font-family': articleState.fontFamilyOption.value,
                     '--font-size': articleState.fontSizeOption.value,
                     '--font-color': articleState.fontColor.value,
