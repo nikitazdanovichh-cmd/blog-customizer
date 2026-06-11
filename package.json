@@ -5,6 +5,7 @@
 	"license": "MIT",
 	"devDependencies": {
 		"@pmmmwh/react-refresh-webpack-plugin": "^0.5.10",
+		"@storybook/addon-a11y": "^8.6.18",
 		"@storybook/addon-essentials": "^8.0.5",
 		"@storybook/addon-interactions": "^8.0.5",
 		"@storybook/addon-links": "^8.0.5",
